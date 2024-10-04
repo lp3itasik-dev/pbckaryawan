@@ -1,0 +1,17 @@
+[22-Feb-2021 14:03:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/kpulp3itasik/public_html/presensi/application/views/dsn/laporan_presensi.php on line 148
+[25-Feb-2021 14:55:21 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/lp3itasik025/presensi.lp3itasik.com/application/controllers/Adm.php on line 296
+[25-Feb-2021 18:55:09 Asia/Jakarta] PHP Fatal error:  Cannot redeclare adm::rekap_honor() in /home/lp3itasik025/presensi.lp3itasik.com/application/controllers/Adm.php on line 310
+[26-Feb-2021 10:36:27 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/lp3itasik025/presensi.lp3itasik.com/application/controllers/Adm.php on line 173
+[28-Feb-2021 10:19:52 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132644864 bytes) in /home/lp3itasik025/presensi.lp3itasik.com/system/core/Exceptions.php on line 271
+[28-Feb-2021 10:20:22 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132644864 bytes) in /home/lp3itasik025/presensi.lp3itasik.com/system/core/Exceptions.php on line 271
+[28-Feb-2021 10:20:23 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132644864 bytes) in /home/lp3itasik025/presensi.lp3itasik.com/application/views/adm/mahasiswa.php on line 72
+[28-Feb-2021 10:20:25 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132644864 bytes) in /home/lp3itasik025/presensi.lp3itasik.com/application/views/adm/mahasiswa.php on line 72
+[28-Feb-2021 10:54:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare adm::rekap_honor() in /home/lp3itasik025/presensi.lp3itasik.com/application/controllers/Adm.php on line 296
+[28-Feb-2021 11:15:33 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/lp3itasik025/presensi.lp3itasik.com/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[01-Mar-2021 16:16:12 Asia/Jakarta] PHP Fatal error:  Cannot redeclare adm::add_presensi() in /home/lp3itasik025/presensi.lp3itasik.com/application/controllers/Adm.php on line 484
+[07-Mar-2021 11:26:07 Asia/Jakarta] PHP Fatal error:  Call to a member function diff() on string in /home/lp3itasik025/presensi.lp3itasik.com/application/views/adm/rekap_mengajar.php on line 98
+[07-Mar-2021 11:27:08 Asia/Jakarta] PHP Fatal error:  Class 'Date' not found in /home/lp3itasik025/presensi.lp3itasik.com/application/views/adm/rekap_mengajar.php on line 96
+[07-Mar-2021 11:27:22 Asia/Jakarta] PHP Fatal error:  Class 'date' not found in /home/lp3itasik025/presensi.lp3itasik.com/application/views/adm/rekap_mengajar.php on line 96
+[07-Mar-2021 16:31:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/lp3itasik025/presensi.lp3itasik.com/application/views/mhs/profile.php on line 80
+[25-Mar-2021 14:42:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/lp3itasik025/presensi.lp3itasik.com/application/views/adm/rekap_mengajar.php on line 122
+[16-Apr-2021 08:57:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method dsn::_do_upload() in /home/lp3itasik025/presensi.lp3itasik.com/application/controllers/Dsn.php on line 560
